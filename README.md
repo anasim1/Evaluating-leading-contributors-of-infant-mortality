@@ -1,5 +1,4 @@
 # Evaluating-leading-contributors-of-infant-mortality
-Coursework for Data Analysis and Machine Learning Course
 
 **Introduction:**
 The death of children under the age of one is known as infant mortality. The infant mortality rate
